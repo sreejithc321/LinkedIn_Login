@@ -19,8 +19,3 @@ Python/Django module to connect with linkedin api
 * Code review
 * Other guidelines
 
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
-
